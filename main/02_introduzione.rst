@@ -71,5 +71,5 @@ che fanno parte della federazione SPID: Gestori Idp, Service provider
 
 
 .. forum_italia::
-   :topic_id: XXXXX
+   :topic_id: 15539
    :scope: document
