@@ -15,8 +15,8 @@ documenti tecnici la presente linea guida utilizzerà le parole chiave
 -  **non deve** o **non devono**, indicano un assoluto divieto delle
    specifiche;
 
--  **dovrebbe** o **raccomandato** o **non dovrebbe** o **NON
-   RACCOMANDATO**, indicano che le implicazioni devono essere comprese e
+-  **dovrebbe** o **raccomandato** o **non dovrebbe** o **non raccomandato**,
+   indicano che le implicazioni devono essere comprese e
    attentamente pesate prima di scegliere approcci alternativi;
 
 -  **può** o **possono** o l'aggettivo **opzionale**, indica che il
