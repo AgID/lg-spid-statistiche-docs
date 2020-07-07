@@ -1,22 +1,24 @@
 document:
   type: Linee guida
-  name: Regole Tecniche per XXXXX
-  short_name: Ll.gg. XXXXXX
+  name: Statistiche SPID
+  short_name: Ll.gg. Statistiche SPID
   author: walter-arrighetti
   contributors:
+    - Gabriele Bocchetta
     - Stefano Arbia
-    - Walter Arrighetti
-    - Michele d'Amico
     - Antonio Florio
+    - Michele d'Amico
     - Stefano Ianniello
     - Andrea Spallacci
+    - Walter Arrighetti
   description: |
-    Linee Guida contenenti Regole Tecniche circa XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+    Linee Guida contenenti le Regole Tecniche per le Statistiche SPID
   tags:
-    - tag1
-    - tag2
-    - tag3
-    - tag4
-    - tag5
-    - QSeal
-  origin: https://github.com/test-lg/NAME-OF-REPOSITORY/
+    - SPID
+    - eIDAS
+    - 
+    - 
+    - 
+    - 
+    - 
+  origin: https://github.com/AgID/lg-spid-statistiche-docs
