@@ -37,7 +37,3 @@ Versione Data        Determinazione Tipologia modifica
    main/07_specifiche-tecniche-tracciati-record.rst
    main/08_trasmissione-statistiche.rst
    all/01_tracciati-record-statistiche-spid.rst
-
-.. forum_italia::
-   :topic_id: XXXXX
-   :scope: document
