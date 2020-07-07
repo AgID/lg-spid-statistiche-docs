@@ -36,7 +36,6 @@ Versione Data        Determinazione Tipologia modifica
    main/06_adeguamento-nuovo-sistema.rst
    main/07_specifiche-tecniche-tracciati-record.rst
    main/08_trasmissione-statistiche.rst
-   all/01_tracciati-record-statistiche-spid.rst
    all/01/TR.IDP1.rst
    all/01/TR.IDP2.rst
    all/01/TR.IDP3.rst
