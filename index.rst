@@ -1,6 +1,9 @@
-Regole Tecniche circa <Titolo dell'Argomento>
-=============================================
+Linee Guida: Statistiche SPID
+=============================
 
+.. highlights::
+
+   Linee guida ex art. 71 del CAD
 .. highlights ::
 
   Linee guida contenenti regole tecniche ex art. 71 del CAD
@@ -8,7 +11,7 @@ Regole Tecniche circa <Titolo dell'Argomento>
 .. admonition:: consultation
 
    La consultazione pubblica relativa al presente documento è attiva dal 
-   **GG MESE** al **GG MESE 2019**. Questo documento raccoglie il testo delle
+   **GG Luglio** al **GG Luglio 2020**. Questo documento raccoglie il testo delle
    Linee guida in oggetto, disponibile per la consultazione pubblica.
 
 .. Note::
@@ -17,7 +20,7 @@ Regole Tecniche circa <Titolo dell'Argomento>
 ======== =========== ============== =====================================
 Versione Data        Determinazione Tipologia modifica
 ======== =========== ============== =====================================
-0.1      GG/mes/2019                descrizione della modifica
+1.0      12/giu/2020                descrizione della modifica
 ======== =========== ============== =====================================
 
 .. toctree::
@@ -25,10 +28,16 @@ Versione Data        Determinazione Tipologia modifica
    :maxdepth: 3
    :caption: Indice dei contenuti
 
-   01_primo-articolo.rst
-   02_secondo-articolo.rst
-   03_terzo-articolo.rst
-   NN_ennesimo-articolo.rst
-   Att.A_primo-allegato.rst
-   Att.B_secondo-allegato.rst
-   Att.Z_ultimo-allegato.rst
+   main/01_prefazione.rst
+   main/02_introduzione.rst
+   main/03_riferimenti-sigle.rst
+   main/04_contesto.rst
+   main/05_dati-statistici.rst
+   main/06_adeguamento-nuovo-sistema.rst
+   main/07_specifiche-tecniche-tracciati-record.rst
+   main/08_trasmissione-statistiche.rst
+   all/01_tracciati-record-statistiche-spid.rst
+
+.. forum_italia::
+   :topic_id: XXXXX
+   :scope: document
