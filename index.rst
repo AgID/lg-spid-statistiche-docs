@@ -37,3 +37,12 @@ Versione Data        Determinazione Tipologia modifica
    main/07_specifiche-tecniche-tracciati-record.rst
    main/08_trasmissione-statistiche.rst
    all/01_tracciati-record-statistiche-spid.rst
+   all/01/TR.IDP1.rst
+   all/01/TR.IDP2.rst
+   all/01/TR.IDP3.rst
+   all/01/TR.IDP4.rst
+   all/01/TR.SP1.rst
+   all/01/TR.SP2.rst
+   all/01/TR.SP3.rst
+   all/01/TR.AA1.rst
+   all/01/tipologie-tracciati.rst
