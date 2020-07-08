@@ -5,7 +5,7 @@ Prefazione
 
 Conformemente alle norme ISO/IEC Directives, Part 3 per la stesura dei
 documenti tecnici la presente linea guida utilizzerà le parole chiave
-«*deve*», «*devono*», «*non deve*», «*non devonp*», «*è richiesto*»,
+«*deve*», «*devono*», «*non deve*», «*non devono*», «*è richiesto*»,
 «*dovrebbe*», «*non dovrebbe*», «*raccomandato*», «*non raccomandato*»,
 «*può*» e «*opzionale*», la cui interpretazione è descritta di seguito.
 
