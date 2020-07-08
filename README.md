@@ -12,7 +12,7 @@ guida per l’attuazione del Codice dell’Amministrazione Digitale».
 
 ## Link al documento e consultazione
 
-Link al documento *Docs Italia*: https://docs.italia.it/docs/lg-spid-statistiche-docs/it/stabile/index.html
+Link al documento *Docs Italia*: https://docs.italia.it/docs/lg-spid-statistiche-docs/it/master/index.html
 
 Link per commenti *Forum Italia*: https://forum.italia.it/c/documenti-in-consultazione/linee-guida-statistiche-spid
 
