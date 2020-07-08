@@ -11,7 +11,7 @@ Linee Guida: Statistiche SPID
 .. admonition:: consultation
 
    La consultazione pubblica relativa al presente documento è attiva dal 
-   **10 Luglio** al **10 Luglio 2020**. Questo documento raccoglie il testo delle
+   **10 Luglio** al **10 Agosto 2020**. Questo documento raccoglie il testo delle
    Linee guida in oggetto, disponibile per la consultazione pubblica.
 
 .. Note::
