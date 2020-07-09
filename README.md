@@ -12,8 +12,8 @@ guida per l’attuazione del Codice dell’Amministrazione Digitale».
 
 ## Link al documento e consultazione
 
-Link al documento *Docs Italia*: https://docs.italia.it/docs/lg-spid-statistiche-docs/it/master/index.html
+Link al documento *Docs Italia*: https://docs.italia.it/docs/lg-spid-statistiche-docs/it/public-consultation/
 
-Link per commenti *Forum Italia*: https://forum.italia.it/c/documenti-in-consultazione/linee-guida-statistiche-spid
+Link per commenti *Forum Italia*: https://forum.italia.it/c/documenti-in-consultazione/linee-guida-statistiche-spid/76
 
 La consultazione sarà attiva dal **10** Luglio 2020 al **9** Agosto 2020.
