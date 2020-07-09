@@ -16,4 +16,4 @@ Link al documento *Docs Italia*: https://docs.italia.it/docs/lg-spid-statistiche
 
 Link per commenti *Forum Italia*: https://forum.italia.it/c/documenti-in-consultazione/linee-guida-statistiche-spid
 
-La consultazione sarà attiva dal **10** Luglio 2020 al **10** Agosto 2020.
+La consultazione sarà attiva dal **10** Luglio 2020 al **9** Agosto 2020.
